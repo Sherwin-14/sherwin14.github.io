@@ -1,0 +1,112 @@
+
+## LiftSmart: A Machine Learning Based Approach For Classifying Barbell Exercises using Wearable Sensor Data
+
+
+::: columns
+::: {.column width="55%"}
+I developed a machine learning model that classifies barbell exercises and counts repetitions using accelerometer and gyroscope data. The project involved data preprocessing, feature extraction, and visualization using Python. I trained a model that accurately identifies exercises and counts repetitions, achieving high accuracy. This project demonstrates the potential of wearable sensor data in fitness tracking and exercise analysis, enabling personalized feedback and optimized workout routines.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](images/classification.png)](https://github.com/Sherwin-14/fitness_tracker)
+***Click on the image to be redirected to project's repo/hosting***
+:::
+:::
+
+
+## Styling the Future: A Personalized Fashion Recommendation System for Myntra
+
+::: columns
+::: {.column width="40%"}
+[![](images/myntra.png)](https://github.com/Sherwin-14/Fashion_Recommender_System){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+I developed a fashion recommendation system using the Myntra dataset, leveraging transfer learning. A pre-trained ResNet model was fine-tuned on the Myntra dataset to extract features from product images.
+
+The ANNOY algorithm efficiently searches for similar images, offering benefits over cosine similarity in scalability and computational complexity. Used by Spotify, ANNOY enables rapid retrieval of similar products, powering personalized fashion recommendations for Myntra customers.
+:::
+:::
+
+## The Movie Matchmaker: MobiFlix - A Recommendation Engine that Brings Users and Movies Together
+
+::: columns
+::: {.column width="55%"}
+I developed MobilFix, a recommendation system using cosine similarity and the Bag of Words technique. It integrates the TMDB API for movie searches, recommendations, and detailed information on movie statuses, directors, and actors. Additionally, it features a Rafael Dialogflow-based chatbot to assist developers.
+
+The application was developed using Streamlit, which enabled me to create a comprehensive web app with a user-friendly interface. The initial version also featured MongoDB authentication for secure user management.
+
+Furthermore, I implemented a sentiment analysis model using Naive Bayes, which is currently under development. This feature aims to analyze user reviews and provide insights into movie sentiment.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](images/mra.mp4)]()
+<a href="https://github.com/Sherwin-14/movie_recommender_system" style="text-decoration: none; color: #097969;"><b><i>Click on this text to be redirected to project's repo/hosting</i></b></a>
+:::
+:::
+
+## Which Office Characters Share the Same Personality?: The Office US Personality Matcher
+
+::: columns
+::: {.column width="40%"}
+[![](images/office.mp4)]()
+<a href="https://github.com/Sherwin-14/the_office_personality_matcher" style="text-decoration: none; color: #097969;"><b><i>Click on this text to be redirected to project's repo/hosting</i></b></a>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+I developed a project that applies t-Distributed Stochastic Neighbor Embedding (t-SNE) to a high-dimensional dataset of character traits from The Office TV show. Using the Bag of Words technique, I transformed text data into numerical features and visualized the relationships between characters. t-SNE revealed clusters of similar personality types, providing valuable insights into character dynamics. This project showcases the power of t-SNE in uncovering hidden patterns in complex datasets.
+
+The t-SNE algorithm revealed clusters of similar personality types, providing valuable insights into character dynamics and uncovering hidden patterns in the dataset. This project demonstrates the power of t-SNE in dimensionality reduction and visualization, enabling a deeper understanding of complex data.
+
+:::
+:::
+
+
+## Duplicate Question Detector: A NLP-based Model for Identifying Similar Questions
+
+
+::: columns
+::: {.column width="55%"}
+I developed an NLP-based model using XGBoost to identify duplicate questions in the Quora dataset. By leveraging the power of XGBoost's ensemble learning, I achieved an accuracy of 80% in detecting duplicate questions. This project showcases my ability to tackle complex NLP tasks and optimize model performance. The model's high accuracy demonstrates its potential to improve the efficiency of question-answering systems and reduce redundancy in online forums.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](images/quora.png)](https://github.com/Sherwin-14/Quora_Pairs){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
+:::
+:::
+
+## Laptop Price Oracle: An ML Model for Predicting Laptop Prices
+
+::: columns
+::: {.column width="40%"}
+[![](images/laptop.png)](https://github.com/Sherwin-14/Laptop-Price-Predictor){target="_blank"}
+***Click on this image to be redirected to project's repo/hosting***
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+A Laptop Price Predictor is needed to predict laptop prices with high accuracy. In the dynamic market of laptops, predicting prices accurately is a challenging task. My solution addresses this by developing a robust regression model that can predict laptop prices with high accuracy to aid both sellers and buyers.
+
+The model, trained on a comprehensive dataset, achieved an impressive accuracy of 89%. I used Google Colab for development and MongoDB for data management. My solution provides insights into the factors influencing laptop prices, serving as a valuable tool for both sellers and buyers in the laptop market.
+
+:::
+:::

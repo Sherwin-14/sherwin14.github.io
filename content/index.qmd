@@ -1,0 +1,79 @@
+---
+title: "Sherwin Varghese"
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+about:
+  template: trestles
+  image: images/profile-pic.png
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://linkedin.com/in/sherwin14/
+      target: _blank
+
+    - icon: github
+      text: Github
+      href: https://github.com/Sherwin-14
+      target: _blank
+
+    - icon: medium
+      text: Medium
+      href: https://medium.com/@varghesesherwin   
+      target: _blank
+
+    - icon: fa-brands fa-kaggle
+      text: Kaggle
+      href: https://www.kaggle.com/sherwin14
+      target: _blank  
+
+lightbox: true      
+
+---
+
+:::{#hero-heading}
+
+Hey, I'm Sherwin, a data geek with a passion for turning numbers into stories that drive real impact - think machine learning, stats, and a whole lot of curiosity
+
+**I'm all about data**: I love digging into data to uncover hidden patterns and insights that can drive business growth and improve operational efficiency.
+
+**Machine learning is my jam**: I'm passionate about using machine learning and deep learning techniques to solve complex problems and make data-driven decisions.
+
+**Business Intelligence & Data Visualization**: Uncovering hidden insights, telling stories with data, and making it look awesome with BI Tools - dashboards, reports, and visualizations that drive business outcomes and make a real impact.
+
+**Data Storytelling**: Using data to tell compelling stories that drive business outcomes, inspire action, and spark meaningful conversations - think interactive visualizations, immersive experiences, and narratives that bring data to life.
+
+<center><font face="Arial" size="5">**Interests**</font></center>
+<br>
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 45%;"  class="dark">
+    • Programming (Python, C++, JS, SQL)
+    • Machine Learning and Deep Learning
+    • Data Visualization and Analytics
+    • Business Intelligence
+    • Data Storytelling
+  </div>
+  <div style="width: 45%;"  class="dark">
+    • Natural Language Processing (NLP)
+    • Sports Analytics
+    • Supply Chain Management
+    • Marketing
+    • Statistics and Probability
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <a href="images/Sherwin_Varghese_RDA.docx" download="Sherwin_Varghese_RDA.docx">
+    <button style="background-color: #097969; color: #fff; padding: 10px 20px; border: none; border-radius: 10px; cursor: pointer;">
+      Get My Resume
+    </button>
+  </a>
+</div>
+
+
+
+
+
+

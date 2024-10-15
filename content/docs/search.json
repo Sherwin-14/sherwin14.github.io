@@ -1,0 +1,226 @@
+[
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "\nWork History\n",
+    "section": "",
+    "text": "Work History"
+  },
+  {
+    "objectID": "experience.html#open-source-contributor-github",
+    "href": "experience.html#open-source-contributor-github",
+    "title": "\nWork History\n",
+    "section": "Open Source Contributor | Github",
+    "text": "Open Source Contributor | Github\n\n10/2023 - Present\n\nI significantly enhanced the documentation for a Shiny a framework for Python with over 1,000 stars on github, and added comprehensive docstrings for the concat function in Narwhals, an alternative to Ibis with over 350 stars on github, improving accessibility and usability for both projects.\nImplemented linking by harnessing Flask to incorporate the repository link into the UI and also reported and solved a Docker build issue on Arch Linux.\nAdded sorting functionality for database tables, customized color schemes for nodes in Sankey charts, and resolved display issues in diagrams.\nCreated backwards compatibility and maintainer guides for an Open Source Project (390+ GitHub stars), streamlining community engagement and project maintenance.\nEnhanced website UX with strategic footer improvements, including an 8x increase in database character count and an auto-updating year feature.\nAuthored a data visualization tutorial using Plotly and Pandas, hosted in a repository with 20 stars on GitHub."
+  },
+  {
+    "objectID": "experience.html#project-engineer-indian-insitute-of-technology-indore",
+    "href": "experience.html#project-engineer-indian-insitute-of-technology-indore",
+    "title": "\nWork History\n",
+    "section": "Project Engineer | Indian Insitute of Technology, Indore",
+    "text": "Project Engineer | Indian Insitute of Technology, Indore\n\n06/2023 - 10/2023\n\nAddressed challenges by conducting comprehensive research on the Simulation and MedTech industry.\nLed the development of a web application using Streamlit and Visual Python for real-time simulation visualization, which increased team productivity by 40%.\nDeveloped an effective scheduling algorithm for job processing in the simulation, which cut down the runtime by 25%.\nRectified significant bugs, thereby improving the performance and dependability of the simulation software.\nOversaw a team to exhibit the product’s features at SETU, an event hosted by IIT Indore. \n\n\nHard Skills"
+  },
+  {
+    "objectID": "experience.html#programming",
+    "href": "experience.html#programming",
+    "title": "\nWork History\n",
+    "section": "Programming",
+    "text": "Programming"
+  },
+  {
+    "objectID": "experience.html#libraries-and-frameworks",
+    "href": "experience.html#libraries-and-frameworks",
+    "title": "\nWork History\n",
+    "section": "Libraries and Frameworks",
+    "text": "Libraries and Frameworks"
+  },
+  {
+    "objectID": "experience.html#databases-and-analytics-tools",
+    "href": "experience.html#databases-and-analytics-tools",
+    "title": "\nWork History\n",
+    "section": "Databases and Analytics Tools",
+    "text": "Databases and Analytics Tools"
+  },
+  {
+    "objectID": "experience.html#dev-tools",
+    "href": "experience.html#dev-tools",
+    "title": "\nWork History\n",
+    "section": "Dev Tools",
+    "text": "Dev Tools"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Sherwin Varghese",
+    "section": "",
+    "text": "In this article, I compared Large Language Models (LLM) and Large Image Models (LIM), highlighting their strengths and limitations. I found that LLMs, like GPT-3, excel in understanding and generating human-like text, while LIMs, like DALL-E, can create images from textual descriptions. Both models have unique strengths, such as contextual understanding and visual content generation, but also limitations, including data dependence and specificity. I concluded that the choice between an LLM and a LIM depends on the specific task requirements."
+  },
+  {
+    "objectID": "blogs.html#llm-vs-lim-a-comparative-analysis",
+    "href": "blogs.html#llm-vs-lim-a-comparative-analysis",
+    "title": "Sherwin Varghese",
+    "section": "",
+    "text": "In this article, I compared Large Language Models (LLM) and Large Image Models (LIM), highlighting their strengths and limitations. I found that LLMs, like GPT-3, excel in understanding and generating human-like text, while LIMs, like DALL-E, can create images from textual descriptions. Both models have unique strengths, such as contextual understanding and visual content generation, but also limitations, including data dependence and specificity. I concluded that the choice between an LLM and a LIM depends on the specific task requirements."
+  },
+  {
+    "objectID": "blogs.html#examining-comedy-in-india-through-eda-part-1",
+    "href": "blogs.html#examining-comedy-in-india-through-eda-part-1",
+    "title": "Sherwin Varghese",
+    "section": "Examining Comedy In India Through EDA Part 1",
+    "text": "Examining Comedy In India Through EDA Part 1\n\n\n\n\n\n\nIn this article, I explored the Indian comedy space using the YouTube Data API and performed exploratory data analysis (EDA) on a dataset of popular Indian comedians. I used Python libraries like Pandas and Seaborn to analyze the data and answer questions about the comedians’ YouTube stats. I found that Zakir Khan has the highest subscribers, followed by Abhishek Upmanyu and Anubhav Singh Bassi. I also discovered that Samay Raina has the highest number of videos, but Anubhav Bassi’s quality over quantity approach has led to high turnover rate."
+  },
+  {
+    "objectID": "blogs.html#through-the-lens-of-power-bi-how-i-met-your-mother",
+    "href": "blogs.html#through-the-lens-of-power-bi-how-i-met-your-mother",
+    "title": "Sherwin Varghese",
+    "section": "Through The Lens Of Power BI: How I Met Your Mother",
+    "text": "Through The Lens Of Power BI: How I Met Your Mother\n\n\nIn this article, I brought the popular sitcom ‘How I Met Your Mother’ to life through data analysis. Using a Kaggle dataset, Excel, and Power BI, I created a dynamic dashboard to uncover hidden patterns and insights. My dashboard features key metrics, such as most voted season, highest rated season, and average viewers per episode, as well as graphs and charts that provide a comprehensive analysis of the show."
+  },
+  {
+    "objectID": "blogs.html#through-the-lens-of-power-bi-walt-disney-company",
+    "href": "blogs.html#through-the-lens-of-power-bi-walt-disney-company",
+    "title": "Sherwin Varghese",
+    "section": "Through The Lens Of Power BI: Walt Disney Company",
+    "text": "Through The Lens Of Power BI: Walt Disney Company\n\n\n\n\n\n\nIn this article, I created a Power BI dashboard to analyze the Walt Disney Company’s movie data. I used Excel for data preprocessing and PowerPoint to design the background. The dashboard features key metrics, such as total movies, total gross, and inflation-adjusted gross, as well as graphs and charts to visualize the data. I used DAX formulas to calculate the metrics and arranged them into blocks to create an interactive dashboard. The dashboard provides a comprehensive view of Disney’s movie data, but I believe there’s room for further exploration and improvement, which could lead to new insights and discoveries."
+  },
+  {
+    "objectID": "blogs.html#moneyball-and-data-science-a-personal-perspective-on-football",
+    "href": "blogs.html#moneyball-and-data-science-a-personal-perspective-on-football",
+    "title": "Sherwin Varghese",
+    "section": "Moneyball and Data Science: A Personal Perspective on Football",
+    "text": "Moneyball and Data Science: A Personal Perspective on Football\n\n\nIn the heart of football fandom, I embarked on a journey to unravel the mysteries of the English Premier League’s 2020/21 season. Armed with NumPy and Pandas for data manipulation, and Matplotlib, Seaborn, and Plotly for visualization, I crafted an interactive dashboard with Plotly Dash.\nI gathered EPL 2020/21 season data, used NumPy and Pandas for data cleaning and transformation, created visualizations with Matplotlib, Seaborn, and Plotly, developed an interactive dashboard using Plotly Dash, and conducted EDA to uncover trends and patterns. The final outcome is a comprehensive analysis that provides deeper insights into the EPL and demonstrates the power of data analysis and visualization in sports analytics."
+  },
+  {
+    "objectID": "blogs.html#through-the-lens-of-power-bi-spotify",
+    "href": "blogs.html#through-the-lens-of-power-bi-spotify",
+    "title": "Sherwin Varghese",
+    "section": "Through The Lens of Power BI: Spotify",
+    "text": "Through The Lens of Power BI: Spotify\n\n\n\n\n\n\nI created a Spotify analytics dashboard using Power BI, showcasing various facets of songs streamed on the platform. I preprocessed the data in Excel, removing inconsistencies and null values. I then designed a Spotify-inspired background in PowerPoint and imported it into Power BI. The dashboard features key metrics, graphs, and charts, providing insights into artist and track performance over the years."
+  },
+  {
+    "objectID": "projects_bi.html",
+    "href": "projects_bi.html",
+    "title": "Sherwin Varghese",
+    "section": "",
+    "text": "In the ShopEase project, I embarked on a comprehensive analysis of our e-commerce store to uncover customer behavior patterns and preferences. Tasked with providing actionable insights for our stakeholders, I applied RFM analysis to segment customers based on their purchasing habits. This led to the development of a machine learning model that identifies distinct customer segments, enabling personalized marketing strategies. From data collection to model evaluation, each step was meticulously executed to enhance customer retention, optimize our online store, and drive business growth.\n\n\n\n Click on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_bi.html#shopease-e-commerce-platform-analysis",
+    "href": "projects_bi.html#shopease-e-commerce-platform-analysis",
+    "title": "Sherwin Varghese",
+    "section": "",
+    "text": "In the ShopEase project, I embarked on a comprehensive analysis of our e-commerce store to uncover customer behavior patterns and preferences. Tasked with providing actionable insights for our stakeholders, I applied RFM analysis to segment customers based on their purchasing habits. This led to the development of a machine learning model that identifies distinct customer segments, enabling personalized marketing strategies. From data collection to model evaluation, each step was meticulously executed to enhance customer retention, optimize our online store, and drive business growth.\n\n\n\n Click on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_bi.html#metropolitan-motion---the-analytic-route-of-nys-yellow-cabs",
+    "href": "projects_bi.html#metropolitan-motion---the-analytic-route-of-nys-yellow-cabs",
+    "title": "Sherwin Varghese",
+    "section": "Metropolitan Motion - The Analytic Route of NY’s Yellow Cabs",
+    "text": "Metropolitan Motion - The Analytic Route of NY’s Yellow Cabs\n\n\n\n\n\n\nI embarked on a project to leverage the New York City Taxi and Limousine Commission (TLC) dataset to predict taxi fares and provide insights into the operations and business of the TLC. The solution includes an automated machine learning (AutoML) model for fare prediction, an infographic for data visualization, and SQL queries for data analysis.\nI developed an AutoML model that predicts taxi fares based on various factors such as pickup and dropoff locations, trip distance, and time of day. This model helps the TLC in fare regulation and prevents overcharging by taxi drivers. Additionally, I created a visually appealing infographic that represents key insights and trends from the dataset, aiding the TLC in understanding patterns and trends to inform their decision-making process. I also used SQL queries to answer various business questions, such as identifying the most popular pickup and dropoff locations and calculating the average fare per trip. The final outcome is a comprehensive solution that enhances the TLC’s ability to regulate fares and gain valuable insights from their data.\n\n\n\nClick on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_bi.html#atliq-mart-supply-chain-optimization---journey-to-supply-chain-excellence",
+    "href": "projects_bi.html#atliq-mart-supply-chain-optimization---journey-to-supply-chain-excellence",
+    "title": "Sherwin Varghese",
+    "section": "Atliq Mart Supply Chain Optimization - Journey to Supply Chain Excellence",
+    "text": "Atliq Mart Supply Chain Optimization - Journey to Supply Chain Excellence\n\n\nAtliQ Mart, an FMCG manufacturer in Gujarat, faced customer retention issues due to delivery problems. To address this, the supply chain team tracked daily ‘On-time’ and ‘In Full’ delivery metrics using Power BI. This project aimed to identify inefficiencies and improve service levels through data visualization and analytics, ultimately optimizing supply chain operations.\nI tracked a multitude of terminologies, including On-time and In Full delivery metrics, which we monitored on a monthly basis. Additionally, I analyzed product-level insights, such as delivery performance, inventory levels, and lead time, alongside customer-based insights, including delivery performance, order fulfillment rates, and lead time. These metrics were tracked and analyzed on a monthly basis, providing us with a comprehensive view of the supply chain’s performance and enabling us to identify areas of inefficiency and optimize our operations to improve service levels and customer satisfaction.\n\n\n\n Click on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_bi.html#atliq-telecom-user-analysis---mapping-user-trends-at-atliq",
+    "href": "projects_bi.html#atliq-telecom-user-analysis---mapping-user-trends-at-atliq",
+    "title": "Sherwin Varghese",
+    "section": "Atliq Telecom User Analysis - Mapping User Trends at Atliq",
+    "text": "Atliq Telecom User Analysis - Mapping User Trends at Atliq\n\n\n\n\n\n\nI tackled AtliQo’s user decline post-5G launch by creating a Power BI dashboard to compare KPIs before and after the launch. My analysis revealed key trends and led to 11 strategic recommendations to boost active users and revenue. This project is a foundation for future improvements and data-driven decisions.\n\n\n\nClick on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_bi.html#attrition-prediction-and-prevention-an-hr-pilot-program-leveraging-automl-and-data-analytics",
+    "href": "projects_bi.html#attrition-prediction-and-prevention-an-hr-pilot-program-leveraging-automl-and-data-analytics",
+    "title": "Sherwin Varghese",
+    "section": "Attrition Prediction and Prevention: An HR Pilot Program Leveraging AutoML and Data Analytics",
+    "text": "Attrition Prediction and Prevention: An HR Pilot Program Leveraging AutoML and Data Analytics\n\n\nThe HR Pilot Program aims to improve employee retention by analyzing a dataset of 15,000 data points, conducting a pilot program for new employees, and using machine learning to predict attrition. An AutoML model using PyCaret’s Decision Tree algorithm achieves over 95% accuracy in predicting attrition. The project utilizes Google BigQuery, Python, PyCaret, Google Sheets, and Looker Studio for data analysis, predictive modeling, and reporting.\n\n\n\n Click on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_bi.html#dreamspace-a-streamlit-app-for-exploring-3d-models-of-home-furnishings-and-decor",
+    "href": "projects_bi.html#dreamspace-a-streamlit-app-for-exploring-3d-models-of-home-furnishings-and-decor",
+    "title": "Sherwin Varghese",
+    "section": "DreamSpace: A Streamlit App for Exploring 3D Models of Home Furnishings and Decor",
+    "text": "DreamSpace: A Streamlit App for Exploring 3D Models of Home Furnishings and Decor\n\n\n\n\n\n\nA Streamlit web application utilizing Plotly for interactive 3D visualization of everyday items. Browse and inspect dimensions of objects like bathtubs, beds, chairs, monitors, and sofas from all angles, powered by Princeton University’s ModelNet10 dataset.\n\n\n\nClick on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_bi.html#english-premier-league-analysis---an-analysis-of-epl-season-2021",
+    "href": "projects_bi.html#english-premier-league-analysis---an-analysis-of-epl-season-2021",
+    "title": "Sherwin Varghese",
+    "section": "English Premier League Analysis - An Analysis of EPL Season 20/21",
+    "text": "English Premier League Analysis - An Analysis of EPL Season 20/21\n\n\nIn the heart of football fandom, I embarked on a journey to unravel the mysteries of the English Premier League’s 2020/21 season. Armed with NumPy and Pandas for data manipulation, and Matplotlib, Seaborn, and Plotly for visualization, I crafted an interactive dashboard with Plotly Dash.\nI gathered EPL 2020/21 season data, used NumPy and Pandas for data cleaning and transformation, created visualizations with Matplotlib, Seaborn, and Plotly, developed an interactive dashboard using Plotly Dash, and conducted EDA to uncover trends and patterns. The final outcome is a comprehensive analysis that provides deeper insights into the EPL and demonstrates the power of data analysis and visualization in sports analytics.\n\n\n\n Click on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_bi.html#soaring-to-new-heights-a-data-driven-approach-to-enhancing-customer-service-at-sweatpants-air",
+    "href": "projects_bi.html#soaring-to-new-heights-a-data-driven-approach-to-enhancing-customer-service-at-sweatpants-air",
+    "title": "Sherwin Varghese",
+    "section": "Soaring to New Heights: A Data-Driven Approach to Enhancing Customer Service at Sweatpants Air",
+    "text": "Soaring to New Heights: A Data-Driven Approach to Enhancing Customer Service at Sweatpants Air\n\n\n\n\n\n\n\nA comprehensive analysis of customer satisfaction using Power BI, leveraging survey data to identify key drivers and areas for improvement. Interactive dashboards and visualizations provide actionable insights, enabling data-driven decisions to enhance customer service and experience.\n\n\n\nClick on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_bi.html#brewing-success-a-data-driven-analysis-of-kraken-koffees-florida-stores",
+    "href": "projects_bi.html#brewing-success-a-data-driven-analysis-of-kraken-koffees-florida-stores",
+    "title": "Sherwin Varghese",
+    "section": "Brewing Success: A Data-Driven Analysis of Kraken Koffee’s Florida Stores",
+    "text": "Brewing Success: A Data-Driven Analysis of Kraken Koffee’s Florida Stores\n\n\nA data-driven project to enhance the performance of three Florida stores by analyzing sales, customer traffic, and satisfaction scores. Using Power BI and PowerPoint, a detailed infographic was created to identify areas for improvement and inform data-driven decisions. Despite limited data, accurate predictions were made to boost store performance, customer satisfaction, and profitability.\n\n\n\n\n\nClick on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sherwin Varghese",
+    "section": "",
+    "text": "Hey, I’m Sherwin, a data geek with a passion for turning numbers into stories that drive real impact - think machine learning, stats, and a whole lot of curiosity\nI’m all about data: I love digging into data to uncover hidden patterns and insights that can drive business growth and improve operational efficiency.\nMachine learning is my jam: I’m passionate about using machine learning and deep learning techniques to solve complex problems and make data-driven decisions.\nBusiness Intelligence & Data Visualization: Uncovering hidden insights, telling stories with data, and making it look awesome with BI Tools - dashboards, reports, and visualizations that drive business outcomes and make a real impact.\nData Storytelling: Using data to tell compelling stories that drive business outcomes, inspire action, and spark meaningful conversations - think interactive visualizations, immersive experiences, and narratives that bring data to life.\n\nInterests\n\n\n\n\n• Programming (Python, C++, JS, SQL)\n• Machine Learning and Deep Learning\n• Data Visualization and Analytics\n• Business Intelligence\n• Data Storytelling\n\n\n• Natural Language Processing (NLP)\n• Sports Analytics\n• Supply Chain Management\n• Marketing\n• Statistics and Probability\n\n\n\n  Get My Resume"
+  },
+  {
+    "objectID": "projects_ml.html",
+    "href": "projects_ml.html",
+    "title": "Sherwin Varghese",
+    "section": "",
+    "text": "I developed a machine learning model that classifies barbell exercises and counts repetitions using accelerometer and gyroscope data. The project involved data preprocessing, feature extraction, and visualization using Python. I trained a model that accurately identifies exercises and counts repetitions, achieving high accuracy. This project demonstrates the potential of wearable sensor data in fitness tracking and exercise analysis, enabling personalized feedback and optimized workout routines.\n\n\n\n Click on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_ml.html#liftsmart-a-machine-learning-based-approach-for-classifying-barbell-exercises-using-wearable-sensor-data",
+    "href": "projects_ml.html#liftsmart-a-machine-learning-based-approach-for-classifying-barbell-exercises-using-wearable-sensor-data",
+    "title": "Sherwin Varghese",
+    "section": "",
+    "text": "I developed a machine learning model that classifies barbell exercises and counts repetitions using accelerometer and gyroscope data. The project involved data preprocessing, feature extraction, and visualization using Python. I trained a model that accurately identifies exercises and counts repetitions, achieving high accuracy. This project demonstrates the potential of wearable sensor data in fitness tracking and exercise analysis, enabling personalized feedback and optimized workout routines.\n\n\n\n Click on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_ml.html#styling-the-future-a-personalized-fashion-recommendation-system-for-myntra",
+    "href": "projects_ml.html#styling-the-future-a-personalized-fashion-recommendation-system-for-myntra",
+    "title": "Sherwin Varghese",
+    "section": "Styling the Future: A Personalized Fashion Recommendation System for Myntra",
+    "text": "Styling the Future: A Personalized Fashion Recommendation System for Myntra\n\n\n Click on the image to be redirected to project’s repo/hosting\n\n\n\nI developed a fashion recommendation system using the Myntra dataset, leveraging transfer learning. A pre-trained ResNet model was fine-tuned on the Myntra dataset to extract features from product images.\nThe ANNOY algorithm efficiently searches for similar images, offering benefits over cosine similarity in scalability and computational complexity. Used by Spotify, ANNOY enables rapid retrieval of similar products, powering personalized fashion recommendations for Myntra customers."
+  },
+  {
+    "objectID": "projects_ml.html#the-movie-matchmaker-mobiflix---a-recommendation-engine-that-brings-users-and-movies-together",
+    "href": "projects_ml.html#the-movie-matchmaker-mobiflix---a-recommendation-engine-that-brings-users-and-movies-together",
+    "title": "Sherwin Varghese",
+    "section": "The Movie Matchmaker: MobiFlix - A Recommendation Engine that Brings Users and Movies Together",
+    "text": "The Movie Matchmaker: MobiFlix - A Recommendation Engine that Brings Users and Movies Together\n\n\nI developed MobilFix, a recommendation system using cosine similarity and the Bag of Words technique. It integrates the TMDB API for movie searches, recommendations, and detailed information on movie statuses, directors, and actors. Additionally, it features a Rafael Dialogflow-based chatbot to assist developers.\nThe application was developed using Streamlit, which enabled me to create a comprehensive web app with a user-friendly interface. The initial version also featured MongoDB authentication for secure user management.\nFurthermore, I implemented a sentiment analysis model using Naive Bayes, which is currently under development. This feature aims to analyze user reviews and provide insights into movie sentiment.\n\n\n\nVideo Click on this text to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_ml.html#which-office-characters-share-the-same-personality-the-office-us-personality-matcher",
+    "href": "projects_ml.html#which-office-characters-share-the-same-personality-the-office-us-personality-matcher",
+    "title": "Sherwin Varghese",
+    "section": "Which Office Characters Share the Same Personality?: The Office US Personality Matcher",
+    "text": "Which Office Characters Share the Same Personality?: The Office US Personality Matcher\n\n\nVideo Click on this text to be redirected to project’s repo/hosting\n\n\n\nI developed a project that applies t-Distributed Stochastic Neighbor Embedding (t-SNE) to a high-dimensional dataset of character traits from The Office TV show. Using the Bag of Words technique, I transformed text data into numerical features and visualized the relationships between characters. t-SNE revealed clusters of similar personality types, providing valuable insights into character dynamics. This project showcases the power of t-SNE in uncovering hidden patterns in complex datasets.\nThe t-SNE algorithm revealed clusters of similar personality types, providing valuable insights into character dynamics and uncovering hidden patterns in the dataset. This project demonstrates the power of t-SNE in dimensionality reduction and visualization, enabling a deeper understanding of complex data."
+  },
+  {
+    "objectID": "projects_ml.html#duplicate-question-detector-a-nlp-based-model-for-identifying-similar-questions",
+    "href": "projects_ml.html#duplicate-question-detector-a-nlp-based-model-for-identifying-similar-questions",
+    "title": "Sherwin Varghese",
+    "section": "Duplicate Question Detector: A NLP-based Model for Identifying Similar Questions",
+    "text": "Duplicate Question Detector: A NLP-based Model for Identifying Similar Questions\n\n\nI developed an NLP-based model using XGBoost to identify duplicate questions in the Quora dataset. By leveraging the power of XGBoost’s ensemble learning, I achieved an accuracy of 80% in detecting duplicate questions. This project showcases my ability to tackle complex NLP tasks and optimize model performance. The model’s high accuracy demonstrates its potential to improve the efficiency of question-answering systems and reduce redundancy in online forums.\n\n\n\n Click on the image to be redirected to project’s repo/hosting"
+  },
+  {
+    "objectID": "projects_ml.html#laptop-price-oracle-an-ml-model-for-predicting-laptop-prices",
+    "href": "projects_ml.html#laptop-price-oracle-an-ml-model-for-predicting-laptop-prices",
+    "title": "Sherwin Varghese",
+    "section": "Laptop Price Oracle: An ML Model for Predicting Laptop Prices",
+    "text": "Laptop Price Oracle: An ML Model for Predicting Laptop Prices\n\n\n Click on this image to be redirected to project’s repo/hosting\n\n\n\nA Laptop Price Predictor is needed to predict laptop prices with high accuracy. In the dynamic market of laptops, predicting prices accurately is a challenging task. My solution addresses this by developing a robust regression model that can predict laptop prices with high accuracy to aid both sellers and buyers.\nThe model, trained on a comprehensive dataset, achieved an impressive accuracy of 89%. I used Google Colab for development and MongoDB for data management. My solution provides insights into the factors influencing laptop prices, serving as a valuable tool for both sellers and buyers in the laptop market."
+  }
+]

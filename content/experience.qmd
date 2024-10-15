@@ -1,0 +1,161 @@
+<h1 style="text-align: center; border: none;">Work History</h1>
+
+
+:::{#hero-heading}
+
+## Open Source Contributor | Github
+### 10/2023 - Present
+
+
+* I significantly enhanced the documentation for a Shiny a framework for Python with over 1,000 stars on github, and added comprehensive docstrings for the concat function in Narwhals, an alternative to Ibis with over 350 stars on github, improving accessibility and usability for both projects.
+* Implemented linking by harnessing Flask to incorporate the repository link into the UI and also reported and solved a Docker build issue on Arch Linux.
+* Added sorting functionality for database tables, customized color schemes for nodes in Sankey charts, and resolved display issues in diagrams.
+* Created backwards compatibility and maintainer guides for an Open Source Project (390+ GitHub stars), streamlining community engagement and project maintenance.
+* Enhanced website UX with strategic footer improvements, including an 8x increase in database character count and an auto-updating year feature.
+* Authored a data visualization tutorial using Plotly and Pandas, hosted in a repository with 20 stars on GitHub.
+
+:::{#hero-heading}
+
+## Project Engineer | Indian Insitute of Technology, Indore
+### 06/2023 - 10/2023
+
+* Addressed challenges by conducting comprehensive research on the Simulation and MedTech industry.
+* Led the development of a web application using Streamlit and Visual Python for real-time simulation visualization, which increased team productivity by 40%.
+* Developed an effective scheduling algorithm for job processing in the simulation, which cut down the runtime by 25%.
+* Rectified significant bugs, thereby improving the performance and dependability of the simulation software.
+* Oversaw a team to exhibit the product’s features at SETU, an event hosted by IIT Indore.
+<br>
+
+<h1 style="text-align: center; border: none;">Hard Skills</h1>
+
+## Programming
+
+[<img height="50" width="50" src="https://cdn.simpleicons.org/python">](https://www.python.org/) 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/cplusplus">](https://www.python.org/) 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/c">](https://www.python.org/)
+ &nbsp;&nbsp;
+ &nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/html5">](https://www.linux.org/) 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/javascript">](https://www.linux.org/) 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+<br>
+
+
+
+## Libraries and Frameworks
+
+[<img height="50" width="50" src="https://cdn.simpleicons.org/pandas">](https://pandas.pydata.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/polars">](https://www.pola.rs/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/numpy">](https://numpy.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/scikitlearn">](https://scikit-learn.org/stable/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/openstreetmap">](https://docs.pydantic.dev/latest/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/flask">](https://fastapi.tiangolo.com/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/streamlit">](https://fastapi.tiangolo.com/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/plotly">](https://plotly.com/python/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/pytest">](https://docs.pytest.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/materialformkdocs">](https://pytorch.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/quarto">](https://www.python.org/) 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+<img height="50" width="55" src="images/logo-mark-lightbg.png" alt="Seaborn Logo">
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/tensorflow">](https://www.rust-lang.org/) 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/keras">](https://beta.ruff.rs/docs/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/opencv">](https://fastapi.tiangolo.com/)
+&nbsp;&nbsp;
+[<img height="30" width="160" src="images/logo.png">](https://pypi.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+<br>
+
+
+## Databases and Analytics Tools
+
+[<img height="50" width="50" src="https://cdn.simpleicons.org/postgresql">](https://www.postgresql.org/)
+ &nbsp;&nbsp;
+ &nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/sqlite">](https://www.sqlite.org/index.html)
+ &nbsp;&nbsp;
+ &nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/mysql">](https://prestodb.io/)
+ &nbsp;&nbsp;
+ &nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/googlebigquery">](https://scipy.org/)
+ &nbsp;&nbsp;
+ &nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/snowflake">](https://code.visualstudio.com/docs) 
+ &nbsp;&nbsp;
+ &nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/mongodb">](https://kubernetes.io/) 
+ &nbsp;&nbsp;
+ &nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/looker">](https://pypi.org/)
+ &nbsp;&nbsp;
+ &nbsp;&nbsp;
+[<img height="50" width="40" src="images/Power-BI.png">](https://pypi.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+<br>
+
+## Dev Tools
+
+[<img height="50" width="50" src="https://cdn.simpleicons.org/docker">](https://docs.docker.com/) 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/ruff">](https://beta.ruff.rs/docs/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/yaml">](https://pypi.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/googlesheets">](https://scipy.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/linux">](https://www.linux.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/git">](https://pypi.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/readthedocs">](https://pypi.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[<img height="50" width="50" src="https://cdn.simpleicons.org/jupyter">](https://pypi.org/)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+
+
+
+

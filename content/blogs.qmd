@@ -1,0 +1,95 @@
+:::{#hero-heading}
+
+## LLM VS LIM: A Comparative Analysis
+
+::: columns
+
+::: {.column width="55%"}
+In this article, I compared Large Language Models (LLM) and Large Image Models (LIM), highlighting their strengths and limitations. I found that LLMs, like GPT-3, excel in understanding and generating human-like text, while LIMs, like DALL-E, can create images from textual descriptions. Both models have unique strengths, such as contextual understanding and visual content generation, but also limitations, including data dependence and specificity. I concluded that the choice between an LLM and a LIM depends on the specific task requirements.
+::: 
+:::
+
+::: {.column width="40%"}
+[![](images/llmvslim.png)](https://medium.com/gopenai/large-language-models-llm-vs-large-image-models-lim-a-comparative-analysis-91d770443bab){target="_blank"}
+:::
+:::
+
+
+
+## Examining Comedy In India Through EDA Part 1
+
+::: columns
+::: {.column width="40%"}
+![](images/comedy.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+In this article, I explored the Indian comedy space using the YouTube Data API and performed exploratory data analysis (EDA) on a dataset of popular Indian comedians. I used Python libraries like Pandas and Seaborn to analyze the data and answer questions about the comedians' YouTube stats. I found that Zakir Khan has the highest subscribers, followed by Abhishek Upmanyu and Anubhav Singh Bassi. I also discovered that Samay Raina has the highest number of videos, but Anubhav Bassi's quality over quantity approach has led to high turnover rate.
+:::
+:::
+
+## Through The Lens Of Power BI: How I Met Your Mother
+
+::: columns
+::: {.column width="55%"}
+In this article, I brought the popular sitcom 'How I Met Your Mother' to life through data analysis. Using a Kaggle dataset, Excel, and Power BI, I created a dynamic dashboard to uncover hidden patterns and insights. My dashboard features key metrics, such as most voted season, highest rated season, and average viewers per episode, as well as graphs and charts that provide a comprehensive analysis of the show.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](images/himym.png)](https://medium.com/gopenai/through-the-lens-of-power-bi-how-i-met-your-mother-3e3e6067f227){target="_blank"}
+:::
+:::
+
+## Through The Lens Of Power BI: Walt Disney Company
+
+::: columns
+::: {.column width="40%"}
+[![](images/disney.png)](https://medium.com/@varghesesherwin/through-the-lens-of-power-bi-walt-disney-company-8760ab9527c6){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+In this article, I created a Power BI dashboard to analyze the Walt Disney Company's movie data. I used Excel for data preprocessing and PowerPoint to design the background. The dashboard features key metrics, such as total movies, total gross, and inflation-adjusted gross, as well as graphs and charts to visualize the data. I used DAX formulas to calculate the metrics and arranged them into blocks to create an interactive dashboard. The dashboard provides a comprehensive view of Disney's movie data, but I believe there's room for further exploration and improvement, which could lead to new insights and discoveries.
+
+:::
+:::
+
+## Moneyball and Data Science: A Personal Perspective on Football
+
+::: columns
+::: {.column width="55%"}
+In the heart of football fandom, I embarked on a journey to unravel the mysteries of the English Premier League’s 2020/21 season. Armed with NumPy and Pandas for data manipulation, and Matplotlib, Seaborn, and Plotly for visualization, I crafted an interactive dashboard with Plotly Dash.
+
+I gathered EPL 2020/21 season data, used NumPy and Pandas for data cleaning and transformation, created visualizations with Matplotlib, Seaborn, and Plotly, developed an interactive dashboard using Plotly Dash, and conducted EDA to uncover trends and patterns. The final outcome is a comprehensive analysis that provides deeper insights into the EPL and demonstrates the power of data analysis and visualization in sports analytics.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](images/moneyball.png)](https://medium.com/@varghesesherwin/moneyball-and-data-science-a-personal-perspective-on-football-634bbf6f676c){target="_blank"}
+:::
+:::
+
+## Through The Lens of Power BI: Spotify
+
+::: columns
+::: {.column width="40%"}
+[![](images/spotify.png)](https://medium.com/@varghesesherwin/through-the-lens-of-power-bi-walt-disney-company-8760ab9527c6){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+I created a Spotify analytics dashboard using Power BI, showcasing various facets of songs streamed on the platform. I preprocessed the data in Excel, removing inconsistencies and null values. I then designed a Spotify-inspired background in PowerPoint and imported it into Power BI. The dashboard features key metrics, graphs, and charts, providing insights into artist and track performance over the years.
+:::
+:::

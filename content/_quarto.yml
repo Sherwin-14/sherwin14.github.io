@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sherwin Varghese"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About Me
+      - href: experience.qmd
+        text: Experience and Skills
+      - text: Projects
+        menu: 
+          - text: "Business Intelligence and Data Analytics"
+            href: projects_bi.qmd
+          - text: "Machine Learning and Deep Learning"
+            href: projects_ml.qmd
+
+      - href: blogs.qmd
+        text: Blogs 
+
+
+format:
+  html:
+    grid: 
+      body-width: 2000px
+      sidebar-width: 200px
+      margin-width: 200px
+    theme:
+           light: [pandoc,theme_light_custom.scss]
+           dark:  [cyborg,theme_dark_custom.scss]
+
+    css: styles.css
+    toc: true
+    citations-hover: true
+    code-link: true
+    code-fold: show
+    code-tools: false
+    code-block-border-left: "#004E4F"
+
+
+
+

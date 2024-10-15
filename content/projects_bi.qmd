@@ -1,0 +1,203 @@
+
+## ShopEase E-commerce Platform Analysis
+
+::: columns
+::: {.column width="55%"}
+In the ShopEase project, I embarked on a comprehensive analysis of our e-commerce store to uncover customer behavior patterns and preferences. Tasked with providing actionable insights for our stakeholders, I applied RFM analysis to segment customers based on their purchasing habits. This led to the development of a machine learning model that identifies distinct customer segments, enabling personalized marketing strategies. From data collection to model evaluation, each step was meticulously executed to enhance customer retention, optimize our online store, and drive business growth.
+:::
+
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](images/shopease.png)](https://shopease.streamlit.app/){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
+:::
+:::
+
+
+## Metropolitan Motion - The Analytic Route of NY’s Yellow Cabs
+
+::: columns
+::: {.column width="40%"}
+[![](images/nyc-taxi.jpg)](https://github.com/Sherwin-14/NYC_Taxi_Analysis){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+I embarked on a project to leverage the New York City Taxi and Limousine Commission (TLC) dataset to predict taxi fares and provide insights into the operations and business of the TLC. The solution includes an automated machine learning (AutoML) model for fare prediction, an infographic for data visualization, and SQL queries for data analysis.
+
+I developed an AutoML model that predicts taxi fares based on various factors such as pickup and dropoff locations, trip distance, and time of day. This model helps the TLC in fare regulation and prevents overcharging by taxi drivers. Additionally, I created a visually appealing infographic that represents key insights and trends from the dataset, aiding the TLC in understanding patterns and trends to inform their decision-making process. I also used SQL queries to answer various business questions, such as identifying the most popular pickup and dropoff locations and calculating the average fare per trip. The final outcome is a comprehensive solution that enhances the TLC’s ability to regulate fares and gain valuable insights from their data.
+
+:::
+:::
+
+::: tip
+***Click on the image to be redirected to project's repo/hosting***
+:::
+
+## Atliq Mart Supply Chain Optimization - Journey to Supply Chain Excellence
+
+::: columns
+::: {.column width="55%"}
+AtliQ Mart, an FMCG manufacturer in Gujarat, faced customer retention issues due to delivery problems. To address this, the supply chain team tracked daily ‘On-time’ and ‘In Full’ delivery metrics using Power BI. This project aimed to identify inefficiencies and improve service levels through data visualization and analytics, ultimately optimizing supply chain operations.
+
+I tracked a multitude of terminologies, including On-time and In Full delivery metrics, which we monitored on a monthly basis. Additionally, I analyzed product-level insights, such as delivery performance, inventory levels, and lead time, alongside customer-based insights, including delivery performance, order fulfillment rates, and lead time. These metrics were tracked and analyzed on a monthly basis, providing us with a comprehensive view of the supply chain's performance and enabling us to identify areas of inefficiency and optimize our operations to improve service levels and customer satisfaction.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](images/atliq-mart.png)](https://github.com/Sherwin-14/Atliq_Mart){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
+
+:::
+:::
+
+
+## Atliq Telecom User Analysis - Mapping User Trends at Atliq 
+
+::: columns
+::: {.column width="40%"}
+[![](images/atliq.png)](https://github.com/Sherwin-14/Atliq_Telecom){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+I tackled AtliQo’s user decline post-5G launch by creating a Power BI dashboard to compare KPIs before and after the launch. My analysis revealed key trends and led to 11 strategic recommendations to boost active users and revenue. This project is a foundation for future improvements and data-driven decisions.
+:::
+:::
+
+::: tip
+***Click on the image to be redirected to project's repo/hosting***
+:::
+
+## Attrition Prediction and Prevention: An HR Pilot Program Leveraging AutoML and Data Analytics 
+
+::: columns
+::: {.column width="55%"}
+The HR Pilot Program aims to improve employee retention by analyzing a dataset of 15,000 data points, conducting a pilot program for new employees, and using machine learning to predict attrition. An AutoML model using PyCaret’s Decision Tree algorithm achieves over 95% accuracy in predicting attrition. The project utilizes Google BigQuery, Python, PyCaret, Google Sheets, and Looker Studio for data analysis, predictive modeling, and reporting. 
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](images/hr.jpg)](https://github.com/Sherwin-14/HR_Pilot_Program/blob/main/Project_Dashboard.pdf){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
+:::
+:::
+
+## DreamSpace: A Streamlit App for Exploring 3D Models of Home Furnishings and Decor
+
+::: columns
+::: {.column width="40%"}
+[![](images/opencad.jpg)](https://github.com/Sherwin-14/Atliq_Telecom){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+A Streamlit web application utilizing Plotly for interactive 3D visualization of everyday items. Browse and inspect dimensions of objects like bathtubs, beds, chairs, monitors, and sofas from all angles, powered by Princeton University's ModelNet10 dataset.
+:::
+:::
+
+::: tip
+***Click on the image to be redirected to project's repo/hosting***
+:::
+
+## English Premier League Analysis - An Analysis of EPL Season 20/21 
+
+::: columns
+::: {.column width="55%"}
+In the heart of football fandom, I embarked on a journey to unravel the mysteries of the English Premier League’s 2020/21 season. Armed with NumPy and Pandas for data manipulation, and Matplotlib, Seaborn, and Plotly for visualization, I crafted an interactive dashboard with Plotly Dash.
+
+I gathered EPL 2020/21 season data, used NumPy and Pandas for data cleaning and transformation, created visualizations with Matplotlib, Seaborn, and Plotly, developed an interactive dashboard using Plotly Dash, and conducted EDA to uncover trends and patterns. The final outcome is a comprehensive analysis that provides deeper insights into the EPL and demonstrates the power of data analysis and visualization in sports analytics.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](images/epl.jpg)](https://github.com/Sherwin-14/English_Premier_League_Analysis){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
+:::
+:::
+
+
+## Soaring to New Heights: A Data-Driven Approach to Enhancing Customer Service at Sweatpants Air
+
+::: columns
+::: {.column width="40%"}
+<iframe
+  width = "550"
+  height = "400"
+  src = "images/acs.pdf">
+</iframe>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+A comprehensive analysis of customer satisfaction using Power BI, leveraging survey data to identify key drivers and areas for improvement. Interactive dashboards and visualizations provide actionable insights, enabling data-driven decisions to enhance customer service and experience.
+:::
+:::
+
+::: tip
+***Click on the image to be redirected to project's repo/hosting***
+:::
+
+## Brewing Success: A Data-Driven Analysis of Kraken Koffee's Florida Stores
+
+::: columns
+::: {.column width="55%"}
+ A data-driven project to enhance the performance of three Florida stores by analyzing sales, customer traffic, and satisfaction scores. Using Power BI and PowerPoint, a detailed infographic was created to identify areas for improvement and inform data-driven decisions. Despite limited data, accurate predictions were made to boost store performance, customer satisfaction, and profitability.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+<iframe
+  width = "550"
+  height = "400"
+  src = "images/Kraken_kofffe.pdf">
+</iframe>
+***Click on the image to be redirected to project's repo/hosting***
+:::
+:::
+
+
+
+
+<!-- ## Medium blog - Moving from interesting to actionable analysis -->
+
+<!-- ::: columns -->
+
+<!-- ::: {.column width="55%"} -->
+
+<!-- No actions were taken from the insights you produced, and there was no impact on the business. Your beautiful analysis went on to sit in a folder unseen by anybody ever again. Let's name this folder "the analysis morgue." It contains more moribund analyses than it ought to because this scenario represents a common problem with data analytics teams, and by experiencing it you are not alone. -->
+
+<!-- But there are ways to avoid it.... [Continue reading](https://medium.com/p/5d62c929a36c){target="_blank"} -->
+
+<!-- ::: -->
+
+<!-- ::: {.column width="5%"} -->
+
+<!-- ::: -->
+
+<!-- ::: {.column width="40%"} -->
+
+<!-- ![](images/clusters.png) -->
+
+<!-- ::: -->
+
+<!-- ::: -->
