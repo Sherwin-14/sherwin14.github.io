@@ -1,3 +1,6 @@
+::: {.callout-note title="Important Note Before Proceding Further"}
+***Click on the image to be redirected to project's repo/hosting. For Projects that have videos click on the green text to be redirected to respective repo.***
+:::
 
 ## LiftSmart: A Machine Learning Based Approach For Classifying Barbell Exercises using Wearable Sensor Data
 
@@ -12,7 +15,6 @@ I developed a machine learning model that classifies barbell exercises and count
 
 ::: {.column width="40%"}
 [![](images/classification.png)](https://github.com/Sherwin-14/fitness_tracker)
-***Click on the image to be redirected to project's repo/hosting***
 :::
 :::
 
@@ -22,7 +24,6 @@ I developed a machine learning model that classifies barbell exercises and count
 ::: columns
 ::: {.column width="40%"}
 [![](images/myntra.png)](https://github.com/Sherwin-14/Fashion_Recommender_System){target="_blank"}
-***Click on the image to be redirected to project's repo/hosting***
 :::
 
 ::: {.column width="5%"}
@@ -88,7 +89,7 @@ I developed an NLP-based model using XGBoost to identify duplicate questions in 
 
 ::: {.column width="40%"}
 [![](images/quora.png)](https://github.com/Sherwin-14/Quora_Pairs){target="_blank"}
-***Click on the image to be redirected to project's repo/hosting***
+
 :::
 :::
 
@@ -97,7 +98,6 @@ I developed an NLP-based model using XGBoost to identify duplicate questions in 
 ::: columns
 ::: {.column width="40%"}
 [![](images/laptop.png)](https://github.com/Sherwin-14/Laptop-Price-Predictor){target="_blank"}
-***Click on this image to be redirected to project's repo/hosting***
 :::
 
 ::: {.column width="5%"}
