@@ -71,6 +71,8 @@ I tracked a multitude of terminologies, including On-time and In Full delivery m
 
 ::: {.column width="55%"}
 I tackled AtliQo’s user decline post-5G launch by creating a Power BI dashboard to compare KPIs before and after the launch. My analysis revealed key trends and led to 11 strategic recommendations to boost active users and revenue. This project is a foundation for future improvements and data-driven decisions.
+
+To gain a deeper understanding of the impact of the 5G launch, I tracked and analyzed several key metrics, including Average Revenue Per User (ARPU), Monthly Active Users (MAU), and change in revenue. By comparing these metrics pre- and post-5G launch, I was able to identify areas of opportunity and develop targeted strategies to address the decline in user engagement and revenue.
 :::
 :::
 

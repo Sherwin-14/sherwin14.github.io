@@ -11,6 +11,7 @@ In this article, I compared Large Language Models (LLM) and Large Image Models (
 
 ::: {.column width="40%"}
 [![](images/llmvslim.png)](https://medium.com/gopenai/large-language-models-llm-vs-large-image-models-lim-a-comparative-analysis-91d770443bab){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
 :::
 :::
 
@@ -20,7 +21,8 @@ In this article, I compared Large Language Models (LLM) and Large Image Models (
 
 ::: columns
 ::: {.column width="40%"}
-![](images/comedy.png)
+[![](images/comedy.png)](https://medium.com/@varghesesherwin/examining-comedy-in-india-through-eda-part-1-7439381f9ad1){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
 :::
 
 ::: {.column width="5%"}
@@ -43,6 +45,7 @@ In this article, I brought the popular sitcom 'How I Met Your Mother' to life th
 
 ::: {.column width="40%"}
 [![](images/himym.png)](https://medium.com/gopenai/through-the-lens-of-power-bi-how-i-met-your-mother-3e3e6067f227){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
 :::
 :::
 
@@ -51,6 +54,7 @@ In this article, I brought the popular sitcom 'How I Met Your Mother' to life th
 ::: columns
 ::: {.column width="40%"}
 [![](images/disney.png)](https://medium.com/@varghesesherwin/through-the-lens-of-power-bi-walt-disney-company-8760ab9527c6){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
 :::
 
 ::: {.column width="5%"}
@@ -76,6 +80,7 @@ I gathered EPL 2020/21 season data, used NumPy and Pandas for data cleaning and 
 
 ::: {.column width="40%"}
 [![](images/moneyball.png)](https://medium.com/@varghesesherwin/moneyball-and-data-science-a-personal-perspective-on-football-634bbf6f676c){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
 :::
 :::
 
@@ -84,6 +89,7 @@ I gathered EPL 2020/21 season data, used NumPy and Pandas for data cleaning and 
 ::: columns
 ::: {.column width="40%"}
 [![](images/spotify.png)](https://medium.com/@varghesesherwin/through-the-lens-of-power-bi-walt-disney-company-8760ab9527c6){target="_blank"}
+***Click on the image to be redirected to project's repo/hosting***
 :::
 
 ::: {.column width="5%"}
