@@ -4,10 +4,14 @@ project:
 
 website:
   title: "Sherwin Varghese"
+  twitter-card: true
+  open-graph: true
   navbar:
+    
     left:
       - href: index.qmd
         text: About Me
+      
       - href: experience.qmd
         text: Experience and Skills
       - text: Projects
@@ -31,7 +35,6 @@ format:
            light: [pandoc,theme_light_custom.scss]
            dark:  [cyborg,theme_dark_custom.scss]
 
-    css: styles.css
     toc: true
     citations-hover: true
     code-link: true

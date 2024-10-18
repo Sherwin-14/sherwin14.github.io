@@ -5,3 +5,12 @@ $navbar-bg: #097969;
 
 // Code blocks
 $code-block-bg-alpha: -.8;
+$dropdown-bg: #FFFFFF;
+.blockfix p {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  
+    display: flex;
+    flex-direction: column;
+  }
