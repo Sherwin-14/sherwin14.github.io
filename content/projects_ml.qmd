@@ -1,5 +1,5 @@
 ::: {.callout-note title="Important Note Before Proceding Further"}
-***Click on the image to be redirected to project's repo/hosting. For Projects that have videos click on the green text to be redirected to respective repo.***
+***Click on the image to be redirected to project's repo/hosting. For Projects with embedded videos click on the green text to be redirected to respective repo.***
 :::
 
 ## LiftSmart: A Machine Learning Based Approach For Classifying Barbell Exercises using Wearable Sensor Data
