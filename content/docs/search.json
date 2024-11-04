@@ -222,5 +222,12 @@
     "title": "Sherwin Varghese",
     "section": "Laptop Price Oracle: An ML Model for Predicting Laptop Prices",
     "text": "Laptop Price Oracle: An ML Model for Predicting Laptop Prices\n\n\n\n\n\n\nA Laptop Price Predictor is needed to predict laptop prices with high accuracy. In the dynamic market of laptops, predicting prices accurately is a challenging task. My solution addresses this by developing a robust regression model that can predict laptop prices with high accuracy to aid both sellers and buyers.\nThe model, trained on a comprehensive dataset, achieved an impressive accuracy of 89%. I used Google Colab for development and MongoDB for data management. My solution provides insights into the factors influencing laptop prices, serving as a valuable tool for both sellers and buyers in the laptop market."
+  },
+  {
+    "objectID": "blogs.html#analyzing-data-bank-with-duckdb-insights-and-takeaways",
+    "href": "blogs.html#analyzing-data-bank-with-duckdb-insights-and-takeaways",
+    "title": "Sherwin Varghese",
+    "section": "Analyzing Data Bank with DuckDB: Insights and Takeaways",
+    "text": "Analyzing Data Bank with DuckDB: Insights and Takeaways\n\n\n\n\n\n\nIn this article, I solved a Data with Danny case study using DuckDB, a columnar database, within Jupyter Notebooks. I used Pandas for data cleaning and then leveraged DuckDB’s capabilities for OLAP analysis, providing an alternative solution to traditional SQL databases to solve the problem.\nI chose DuckDB’s OLAP capabilities over traditional SQL databases for this case study because it offered a more efficient and flexible way to analyze complex data. DuckDB’s columnar storage and in-memory processing enabled faster query performance, making it an ideal choice for handling large datasets and complex queries."
   }
 ]
