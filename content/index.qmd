@@ -64,13 +64,11 @@ Hey, I'm Sherwin, a data geek with a passion for turning numbers into stories th
   </div>
 </div>
 
-<div style="text-align: center;">
-  <a href="images/Sherwin_Varghese_RDA.docx" download="Sherwin_Varghese_RDA.docx">
-    <button style="background-color: #097969; color: #fff; padding: 10px 20px; border: none; border-radius: 10px; cursor: pointer;">
-      Get My Resume
-    </button>
-  </a>
-</div>
+:::{.d-grid .gap-2 .blockfix}
+[<i class="bi bi-person-fill"></i>&nbsp;&nbsp;Download My Resume](images/Sherwin_Varghese_RDA.docx){.btn .btn-success role="button"}
+
+[<i class="bi bi-megaphone-fill"></i>&nbsp;&nbsp;Learn more about me and my interests through my blog](https://medium.com/@varghesesherwin){.btn .btn-secondary role="button"}
+:::
 
 
 
