@@ -3,6 +3,23 @@
 ***Click on the image to be redirected to the respective article***
 :::
 
+## Analyzing Data Bank with DuckDB: Insights and Takeaways
+
+::: columns
+::: {.column width="40%"}
+[![](images/duckdb.png)](https://medium.com/@varghesesherwin/analyzing-data-bank-with-duckdb-insights-and-takeaways-6d28901d8f7c){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+In this article, I solved a Data with Danny case study using DuckDB, a columnar database, within Jupyter Notebooks. I used Pandas for data cleaning and then leveraged DuckDB's capabilities for OLAP analysis, providing an alternative solution to traditional SQL databases to solve the problem.
+
+I chose DuckDB's OLAP capabilities over traditional SQL databases for this case study because it offered a more efficient and flexible way to analyze complex data. DuckDB's columnar storage and in-memory processing enabled faster query performance, making it an ideal choice for handling large datasets and complex queries.
+:::
+:::
+
 ## LLM VS LIM: A Comparative Analysis
 
 ::: columns
