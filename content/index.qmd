@@ -7,7 +7,7 @@ include-in-header:
 about:
   template: trestles
   image: images/profile-pic.png
-  image-shape: round
+  image-shape: rounded
   links:
     - icon: linkedin
       text: Linkedin
@@ -59,7 +59,7 @@ Hey, I'm Sherwin, a data geek with a passion for turning numbers into stories th
     • Natural Language Processing (NLP)
     • Sports Analytics
     • Supply Chain Management
-    • Marketing
+    • Time Series Forecasting
     • Statistics and Probability
   </div>
 </div>
